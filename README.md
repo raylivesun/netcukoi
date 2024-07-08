@@ -11,7 +11,7 @@ Here is a brief overview of the main features of Netcukoi:
 
 4. Interceptors: Netcukoi supports request and response interceptors, allowing you to modify requests and responses before they are sent or received.
 
-5. Authentication: Netcukoi provides built-in support for authentication mechanisms such as Bearer tokens, Basic authentication, and OAuth.
+5. Authentication: Netcukoi provides built-in support for authentication mechanisms such as Bearer OKs, Basic authentication, and OAuth.
 
 6. Testing: Netcukoi provides a testing framework that makes it easy to write unit tests for your network requests.
 
